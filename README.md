@@ -1,0 +1,7 @@
+- Hi, I’m @rvignesh1306
+- 👀 I’m interested in ASIC and RTL design, AI hardware accelerators, and ultra-low power circuit design.
+- 🌱 I’m currently learning more about VLSI design techniques and machine learning hardware applications.
+- 💞️ I’m looking to collaborate on projects related to hardware design automation and energy-efficient IC design.
+- 📫 How to reach me: ravindranvignesh14@gmail.com or connect with me on LinkedIn [www.linkedin.com/in/vigneswaran-ravindran-921948262](https://www.linkedin.com/in/vigneswaran-ravindran-921948262).
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy working on open-source hardware projects and exploring new technologies!
